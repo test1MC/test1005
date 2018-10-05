@@ -1,0 +1,24 @@
+Web-based applications are:
+easier to develop
+more useful for your users
+easier to install, maintain and keep secure
+easier to grow as you grow
+
+A web-based application is any application that uses a website as the interface or front-end. Users can easily access the application from any computer connected to the Internet using a standard browser.
+
+Unlike traditional applications, web systems are accessible anytime, anywhere and via any PC with an Internet connection. This puts the user firmly in charge of where and when they access the application.
+It also opens up exciting, modern possibilities such as global teams, home working and real-time collaboration. The idea of sitting in front of a single computer and working in a fixed location is a thing of the past with web-based applications.
+
+The user interface of web-based applications is easier to customise than is the case with desktop applications. This makes it easier to update the look and feel of the application or to customise the presentation of information to different user groups.
+Therefore, there is no longer any need for everyone to settle for using exactly the same interface at all times. Instead, you can find the perfect look for each situation and user.
+
+In addition to being customisable for user groups, content can also be customised for use on any device connected to the internet. This includes the likes of PDAs, mobile phones and tablets.
+This further extends the user’s ability to receive and interact with information in a way that suits them. In this way, the up to date information is always at the fingertips of the people who need it.
+
+It is possible to achieve a far greater level of interoperability between web applications than it is with isolated desktop systems. For example, it is much easier to integrate a web-based shopping cart system with a web-based accounting package than it is to get two proprietary systems to talk to each other. 
+Because of this, web-based architecture makes it possible to rapidly integrate enterprise systems, improving work-flow and other business processes. By taking advantage of internet technologies you get a flexible and adaptable business model that can be changed according to shifting market demands. 
+
+With the web-based approach installation and maintenance becomes less complicated too. Once a new version or upgrade is installed on the host server all users can access it straight away and there is no need to upgrade the PC of each and every potential user. 
+Rolling out new software can be accomplished more easily, requiring only that users have up-to-date browsers and plugins. As the upgrades are only performed by an experienced professional to a single server the results are also more predictable and reliable.
+
+Increasing processor capacity also becomes a far simpler operation with web-based applications. If an application requires more power to perform tasks only the server hardware needs to be upgraded. 
